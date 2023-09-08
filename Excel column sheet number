@@ -1,0 +1,9 @@
+# Leetcode
+class Solution:
+    def convertToTitle(self, c: int) -> str:
+        s=''
+        while c>0:
+            r=(c-1)%26
+            s=s+chr(r+65)
+            c=(c-1)//26
+        return s[::-1]
