@@ -1,0 +1,7 @@
+# Leetcode
+lass Solution:
+    def titleToNumber(self, c: str) -> int:
+        r=0
+        for i in c:
+            r=r*26+ord(i)-64
+        return r
