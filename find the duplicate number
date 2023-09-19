@@ -1,0 +1,9 @@
+# Leetcode
+class Solution:
+    def findDuplicate(self, nums: List[int]) -> int:
+        n=set()
+        for i in nums:
+            if i not in n:
+                n.add(i)
+            else:
+                return i
