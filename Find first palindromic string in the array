@@ -1,0 +1,11 @@
+# Leetcode
+class Solution:
+    def firstPalindrome(self, words: List[str]) -> str:
+        l=[]
+        for i in words:
+            if i==i[::-1]:
+                l.append(i)
+        if len(l)>=1:
+            return l[0]
+        else:
+            return ""
