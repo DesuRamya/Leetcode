@@ -1,0 +1,11 @@
+# Leetcode
+class Solution:
+    def sortPeople(self, n: List[str], h: List[int]) -> List[str]:
+        d={}
+        for i in range(len(n)):
+            d[h[i]]=n[i]
+        
+        l=list(d.keys())
+        l.sort(reverse=True)
+        s = {i: d[i] for i in l}
+        return list(s.values())
