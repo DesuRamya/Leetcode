@@ -7,12 +7,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/DesuRamya/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DesuRamya/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -41,8 +43,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
