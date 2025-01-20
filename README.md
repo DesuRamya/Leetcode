@@ -17,6 +17,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/DesuRamya/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DesuRamya/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2685-first-completely-painted-row-or-column](https://github.com/DesuRamya/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/DesuRamya/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -30,6 +31,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2685-first-completely-painted-row-or-column](https://github.com/DesuRamya/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DesuRamya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -138,6 +140,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/DesuRamya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DesuRamya/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2685-first-completely-painted-row-or-column](https://github.com/DesuRamya/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
