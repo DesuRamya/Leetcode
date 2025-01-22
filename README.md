@@ -26,6 +26,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/DesuRamya/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/DesuRamya/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DesuRamya/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DesuRamya/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DesuRamya/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DesuRamya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -172,6 +174,7 @@
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2211-k-radius-subarray-averages](https://github.com/DesuRamya/Leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DesuRamya/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
