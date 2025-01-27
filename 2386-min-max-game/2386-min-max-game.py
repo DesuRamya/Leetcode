@@ -4,12 +4,9 @@ class Solution:
         arr=[0]*(n//2)
         if len(nums)==1:
             return nums[0]
-        val=True
         for i in range(0,n//2):
-            if val:
+            if i%2==0:
                 arr[i]=min(nums[2*i+1],nums[2*i])
-                val=False
             else:
                 arr[i]=max(nums[2*i+1],nums[2*i])
-                val=True
         return self.minMaxGame(arr)
