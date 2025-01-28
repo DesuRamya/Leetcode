@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/DesuRamya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/DesuRamya/Leetcode/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Queue
 |  |
@@ -226,4 +229,20 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
