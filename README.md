@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -119,6 +120,7 @@
 | [0062-unique-paths](https://github.com/DesuRamya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/DesuRamya/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
 ## Combinatorics
 |  |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
+| [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Simulation
