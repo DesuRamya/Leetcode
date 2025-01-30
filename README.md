@@ -34,6 +34,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/DesuRamya/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/DesuRamya/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DesuRamya/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DesuRamya/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/DesuRamya/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DesuRamya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
@@ -126,6 +128,7 @@
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/DesuRamya/Leetcode/tree/master/2509-minimize-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
