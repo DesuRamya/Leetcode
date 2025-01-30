@@ -1,8 +1,12 @@
 class Solution:
+    def __init__(self):
+        self.d={}
     def climbStairs(self, n: int) -> int:
-        if n<=1:
+        if n in self.d:
+            return self.d[n]
+        if n==0:
             return 1
-        a,b=1,1
-        for i in range(2,n+1):
-            a,b=b,b+a
-        return b
+        if n<0:
+            return 0
+        self.d[n]=self.climbStairs(n-1)+self.climbStairs(n-2)
+        return self.d[n]
