@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DesuRamya/Leetcode/tree/master/0001-two-sum) |
+| [0119-pascals-triangle-ii](https://github.com/DesuRamya/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/DesuRamya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/DesuRamya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/DesuRamya/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
 ## Combinatorics
 |  |
