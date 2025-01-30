@@ -14,6 +14,7 @@
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/DesuRamya/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
@@ -122,6 +123,7 @@
 | [0119-pascals-triangle-ii](https://github.com/DesuRamya/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
