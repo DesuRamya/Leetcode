@@ -37,6 +37,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DesuRamya/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/DesuRamya/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
