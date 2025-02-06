@@ -71,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/DesuRamya/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
