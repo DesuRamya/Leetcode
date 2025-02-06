@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/DesuRamya/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DesuRamya/Leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/DesuRamya/Leetcode/tree/master/0274-h-index) |
 | [0403-frog-jump](https://github.com/DesuRamya/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/DesuRamya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/DesuRamya/Leetcode/tree/master/0480-sliding-window-median) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/DesuRamya/Leetcode/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Counting
@@ -294,4 +296,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/DesuRamya/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
