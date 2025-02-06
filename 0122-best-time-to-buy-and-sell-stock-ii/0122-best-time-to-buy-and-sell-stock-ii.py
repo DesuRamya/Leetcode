@@ -3,6 +3,6 @@ class Solution:
         m,d=0,0
         n=len(prices)
         for i in range(1,n):
-            d=max(0,prices[i]-prices[i-1])
-            m+=d
+            if prices[i]>prices[i-1]:
+                m+=prices[i]-prices[i-1]
         return m
