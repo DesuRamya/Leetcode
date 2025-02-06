@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DesuRamya/Leetcode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/DesuRamya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DesuRamya/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DesuRamya/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/DesuRamya/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -136,6 +137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DesuRamya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DesuRamya/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DesuRamya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0070-climbing-stairs) |
@@ -170,6 +172,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DesuRamya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DesuRamya/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DesuRamya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DesuRamya/Leetcode/tree/master/0134-gas-station) |
