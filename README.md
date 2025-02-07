@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DesuRamya/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DesuRamya/Leetcode/tree/master/0213-house-robber-ii) |
+| [0228-summary-ranges](https://github.com/DesuRamya/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/DesuRamya/Leetcode/tree/master/0274-h-index) |
 | [0403-frog-jump](https://github.com/DesuRamya/Leetcode/tree/master/0403-frog-jump) |
