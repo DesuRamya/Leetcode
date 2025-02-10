@@ -86,6 +86,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/DesuRamya/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DesuRamya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DesuRamya/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
@@ -178,6 +179,7 @@
 | ------- |
 | [2386-min-max-game](https://github.com/DesuRamya/Leetcode/tree/master/2386-min-max-game) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0042-trapping-rain-water](https://github.com/DesuRamya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
