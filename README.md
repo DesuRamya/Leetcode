@@ -79,6 +79,7 @@
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -138,6 +139,7 @@
 | [0390-elimination-game](https://github.com/DesuRamya/Leetcode/tree/master/0390-elimination-game) |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/DesuRamya/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DesuRamya/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
