@@ -80,6 +80,7 @@
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -179,6 +180,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2386-min-max-game](https://github.com/DesuRamya/Leetcode/tree/master/2386-min-max-game) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DesuRamya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
