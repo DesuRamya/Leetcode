@@ -216,6 +216,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2509-minimize-xor](https://github.com/DesuRamya/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DesuRamya/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -292,6 +293,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Queue
@@ -356,6 +358,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DesuRamya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/DesuRamya/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DesuRamya/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DesuRamya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/DesuRamya/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DesuRamya/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
