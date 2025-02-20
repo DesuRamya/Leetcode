@@ -187,6 +187,7 @@
 | [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DesuRamya/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DesuRamya/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/DesuRamya/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Simulation
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DesuRamya/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
