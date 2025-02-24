@@ -157,6 +157,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/DesuRamya/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DesuRamya/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DesuRamya/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -397,4 +398,9 @@
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
