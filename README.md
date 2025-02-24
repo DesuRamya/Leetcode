@@ -160,6 +160,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DesuRamya/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DesuRamya/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
@@ -204,6 +205,7 @@
 | [2386-min-max-game](https://github.com/DesuRamya/Leetcode/tree/master/2386-min-max-game) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DesuRamya/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/DesuRamya/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
 | [0390-elimination-game](https://github.com/DesuRamya/Leetcode/tree/master/0390-elimination-game) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
