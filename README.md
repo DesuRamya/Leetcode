@@ -36,6 +36,7 @@
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/DesuRamya/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DesuRamya/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/DesuRamya/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -155,6 +156,7 @@
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/DesuRamya/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -180,6 +182,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/DesuRamya/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Combinatorics
 |  |
@@ -296,6 +299,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/DesuRamya/Leetcode/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
