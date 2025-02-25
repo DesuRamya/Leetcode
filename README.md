@@ -235,6 +235,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1054-complement-of-base-10-integer](https://github.com/DesuRamya/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [2509-minimize-xor](https://github.com/DesuRamya/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DesuRamya/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
