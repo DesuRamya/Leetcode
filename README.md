@@ -109,6 +109,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DesuRamya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/DesuRamya/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DesuRamya/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
@@ -172,6 +173,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3199-distribute-candies-among-children-i](https://github.com/DesuRamya/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DesuRamya/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/DesuRamya/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DesuRamya/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DesuRamya/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -266,6 +268,7 @@
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DesuRamya/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DesuRamya/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/DesuRamya/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/DesuRamya/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
