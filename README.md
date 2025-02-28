@@ -168,6 +168,7 @@
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3199-distribute-candies-among-children-i](https://github.com/DesuRamya/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DesuRamya/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DesuRamya/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/DesuRamya/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3199-distribute-candies-among-children-i](https://github.com/DesuRamya/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -427,4 +429,5 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3199-distribute-candies-among-children-i](https://github.com/DesuRamya/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
