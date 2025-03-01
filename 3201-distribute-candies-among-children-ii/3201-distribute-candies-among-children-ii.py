@@ -13,6 +13,6 @@ class Solution:
         c1=ways(n-l)
         c2=ways(n-2*l)
         c3=ways(n-3*l)
-        print(c1,c2,c3)
+        # print(c1,c2,c3)
         return ways(n)-3*c1+3*c2-c3
         
