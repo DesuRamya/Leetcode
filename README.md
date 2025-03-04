@@ -29,6 +29,7 @@
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/DesuRamya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
@@ -74,6 +75,7 @@
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0480-sliding-window-median](https://github.com/DesuRamya/Leetcode/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/DesuRamya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/DesuRamya/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -335,6 +337,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/DesuRamya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/DesuRamya/Leetcode/tree/master/2145-grid-game) |
