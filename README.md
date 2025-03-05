@@ -177,6 +177,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/DesuRamya/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DesuRamya/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3199-distribute-candies-among-children-i](https://github.com/DesuRamya/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
@@ -462,4 +463,8 @@
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/DesuRamya/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/DesuRamya/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
