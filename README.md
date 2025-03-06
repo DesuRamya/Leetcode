@@ -109,6 +109,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -184,6 +185,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DesuRamya/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
 | [2156-stone-game-ix](https://github.com/DesuRamya/Leetcode/tree/master/2156-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -263,6 +265,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/DesuRamya/Leetcode/tree/master/2156-stone-game-ix) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DesuRamya/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -433,6 +436,7 @@
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
+| [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/DesuRamya/Leetcode/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/DesuRamya/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Counting Sort
