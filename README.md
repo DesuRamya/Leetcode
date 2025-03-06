@@ -23,6 +23,7 @@
 | [0228-summary-ranges](https://github.com/DesuRamya/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/DesuRamya/Leetcode/tree/master/0274-h-index) |
+| [0334-increasing-triplet-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/DesuRamya/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/DesuRamya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -259,6 +260,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DesuRamya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DesuRamya/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DesuRamya/Leetcode/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2156-stone-game-ix](https://github.com/DesuRamya/Leetcode/tree/master/2156-stone-game-ix) |
