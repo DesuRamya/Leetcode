@@ -56,6 +56,7 @@
 | [2386-min-max-game](https://github.com/DesuRamya/Leetcode/tree/master/2386-min-max-game) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/DesuRamya/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DesuRamya/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DesuRamya/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DesuRamya/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/DesuRamya/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -214,6 +215,7 @@
 | [1362-airplane-seat-assignment-probability](https://github.com/DesuRamya/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DesuRamya/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Combinatorics
 |  |
@@ -258,6 +260,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/DesuRamya/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2509-minimize-xor](https://github.com/DesuRamya/Leetcode/tree/master/2509-minimize-xor) |
+| [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
@@ -351,6 +354,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/DesuRamya/Leetcode/tree/master/2145-grid-game) |
+| [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +373,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 ## Queue
 |  |
 | ------- |
