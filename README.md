@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DesuRamya/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DesuRamya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/DesuRamya/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/DesuRamya/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DesuRamya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DesuRamya/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DesuRamya/Leetcode/tree/master/0135-candy) |
@@ -216,6 +217,7 @@
 | [0062-unique-paths](https://github.com/DesuRamya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/DesuRamya/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/DesuRamya/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DesuRamya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/DesuRamya/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DesuRamya/Leetcode/tree/master/0213-house-robber-ii) |
