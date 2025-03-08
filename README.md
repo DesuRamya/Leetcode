@@ -47,6 +47,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DesuRamya/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/DesuRamya/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -92,6 +93,7 @@
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/DesuRamya/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/DesuRamya/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -164,6 +166,7 @@
 | [0274-h-index](https://github.com/DesuRamya/Leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/DesuRamya/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DesuRamya/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -389,6 +392,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DesuRamya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2145-grid-game](https://github.com/DesuRamya/Leetcode/tree/master/2145-grid-game) |
 | [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 ## Depth-First Search
