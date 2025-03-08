@@ -90,6 +90,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/DesuRamya/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/DesuRamya/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -188,6 +189,7 @@
 | [0390-elimination-game](https://github.com/DesuRamya/Leetcode/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/DesuRamya/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/DesuRamya/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/DesuRamya/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
