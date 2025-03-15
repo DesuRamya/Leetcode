@@ -194,6 +194,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DesuRamya/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/DesuRamya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/DesuRamya/Leetcode/tree/master/0319-bulb-switcher) |
@@ -320,6 +321,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DesuRamya/Leetcode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1054-complement-of-base-10-integer](https://github.com/DesuRamya/Leetcode/tree/master/1054-complement-of-base-10-integer) |
