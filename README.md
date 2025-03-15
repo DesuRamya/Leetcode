@@ -74,6 +74,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/DesuRamya/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/DesuRamya/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/DesuRamya/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/DesuRamya/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DesuRamya/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -304,6 +305,7 @@
 | [2509-minimize-xor](https://github.com/DesuRamya/Leetcode/tree/master/2509-minimize-xor) |
 | [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/DesuRamya/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/DesuRamya/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
@@ -328,6 +330,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/DesuRamya/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/DesuRamya/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/DesuRamya/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DesuRamya/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
