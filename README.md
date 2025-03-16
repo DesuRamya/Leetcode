@@ -136,6 +136,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DesuRamya/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/DesuRamya/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/DesuRamya/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/DesuRamya/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -312,6 +313,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DesuRamya/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/DesuRamya/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/DesuRamya/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/DesuRamya/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/DesuRamya/Leetcode/tree/master/2509-minimize-xor) |
 | [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -326,6 +328,7 @@
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/DesuRamya/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -539,6 +542,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/DesuRamya/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Enumeration
 |  |
 | ------- |
