@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DesuRamya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/DesuRamya/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/DesuRamya/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -298,6 +299,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/DesuRamya/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1026-string-without-aaa-or-bbb](https://github.com/DesuRamya/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1033-broken-calculator](https://github.com/DesuRamya/Leetcode/tree/master/1033-broken-calculator) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DesuRamya/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -384,6 +386,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/DesuRamya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/DesuRamya/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1396-count-servers-that-communicate](https://github.com/DesuRamya/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DesuRamya/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/DesuRamya/Leetcode/tree/master/1876-map-of-highest-peak) |
