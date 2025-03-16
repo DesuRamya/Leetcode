@@ -124,6 +124,7 @@
 | [1026-string-without-aaa-or-bbb](https://github.com/DesuRamya/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DesuRamya/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -298,6 +299,7 @@
 | [1026-string-without-aaa-or-bbb](https://github.com/DesuRamya/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1033-broken-calculator](https://github.com/DesuRamya/Leetcode/tree/master/1033-broken-calculator) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DesuRamya/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/DesuRamya/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2156-stone-game-ix](https://github.com/DesuRamya/Leetcode/tree/master/2156-stone-game-ix) |
