@@ -50,6 +50,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/DesuRamya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DesuRamya/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/DesuRamya/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/DesuRamya/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/DesuRamya/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
@@ -182,6 +183,7 @@
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DesuRamya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/DesuRamya/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/DesuRamya/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -279,6 +281,7 @@
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/DesuRamya/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DesuRamya/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -312,6 +315,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DesuRamya/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DesuRamya/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/DesuRamya/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/DesuRamya/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2156-stone-game-ix](https://github.com/DesuRamya/Leetcode/tree/master/2156-stone-game-ix) |
