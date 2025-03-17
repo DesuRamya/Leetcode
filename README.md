@@ -47,6 +47,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DesuRamya/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DesuRamya/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DesuRamya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DesuRamya/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/DesuRamya/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -102,6 +103,7 @@
 | [1064-smallest-integer-divisible-by-k](https://github.com/DesuRamya/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DesuRamya/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DesuRamya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -179,6 +181,7 @@
 | [0274-h-index](https://github.com/DesuRamya/Leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DesuRamya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/DesuRamya/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
