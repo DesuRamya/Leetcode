@@ -86,6 +86,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/DesuRamya/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/DesuRamya/Leetcode/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DesuRamya/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/DesuRamya/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/DesuRamya/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
@@ -356,6 +357,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DesuRamya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/DesuRamya/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/DesuRamya/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DesuRamya/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DesuRamya/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
@@ -425,6 +427,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/DesuRamya/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DesuRamya/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DesuRamya/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DesuRamya/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/DesuRamya/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
@@ -436,6 +439,7 @@
 | [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2145-grid-game](https://github.com/DesuRamya/Leetcode/tree/master/2145-grid-game) |
 | [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DesuRamya/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -461,6 +465,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DesuRamya/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DesuRamya/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
