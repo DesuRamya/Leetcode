@@ -90,6 +90,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DesuRamya/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/DesuRamya/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/DesuRamya/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/DesuRamya/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +304,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/DesuRamya/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -468,6 +470,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DesuRamya/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DesuRamya/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/DesuRamya/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/DesuRamya/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
