@@ -151,6 +151,7 @@
 | [2487-optimal-partition-of-string](https://github.com/DesuRamya/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/DesuRamya/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/DesuRamya/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/DesuRamya/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -297,6 +298,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DesuRamya/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DesuRamya/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/DesuRamya/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/DesuRamya/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Simulation
 |  |
@@ -342,6 +344,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DesuRamya/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2756-buy-two-chocolates](https://github.com/DesuRamya/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/DesuRamya/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/DesuRamya/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/DesuRamya/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/DesuRamya/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
