@@ -151,6 +151,7 @@
 | [2487-optimal-partition-of-string](https://github.com/DesuRamya/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/DesuRamya/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3055-maximum-odd-binary-number](https://github.com/DesuRamya/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
@@ -240,6 +241,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/DesuRamya/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DesuRamya/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3055-maximum-odd-binary-number](https://github.com/DesuRamya/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/DesuRamya/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DesuRamya/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/DesuRamya/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -340,6 +342,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DesuRamya/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2756-buy-two-chocolates](https://github.com/DesuRamya/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/DesuRamya/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/DesuRamya/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/DesuRamya/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
