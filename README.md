@@ -47,6 +47,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DesuRamya/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DesuRamya/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DesuRamya/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DesuRamya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DesuRamya/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/DesuRamya/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -328,6 +329,7 @@
 | [1033-broken-calculator](https://github.com/DesuRamya/Leetcode/tree/master/1033-broken-calculator) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DesuRamya/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DesuRamya/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DesuRamya/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DesuRamya/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
@@ -423,6 +425,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/DesuRamya/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1396-count-servers-that-communicate](https://github.com/DesuRamya/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DesuRamya/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DesuRamya/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/DesuRamya/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/DesuRamya/Leetcode/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
