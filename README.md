@@ -74,6 +74,7 @@
 | [2386-min-max-game](https://github.com/DesuRamya/Leetcode/tree/master/2386-min-max-game) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/DesuRamya/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/DesuRamya/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/DesuRamya/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DesuRamya/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DesuRamya/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -123,6 +124,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/DesuRamya/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/DesuRamya/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/DesuRamya/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/DesuRamya/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2487-optimal-partition-of-string](https://github.com/DesuRamya/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DesuRamya/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/DesuRamya/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
