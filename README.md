@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/DesuRamya/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/DesuRamya/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
