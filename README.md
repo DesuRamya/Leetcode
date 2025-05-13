@@ -234,6 +234,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DesuRamya/Leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/DesuRamya/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DesuRamya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/DesuRamya/Leetcode/tree/master/0319-bulb-switcher) |
@@ -516,6 +517,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DesuRamya/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
 | [0390-elimination-game](https://github.com/DesuRamya/Leetcode/tree/master/0390-elimination-game) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
