@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/DesuRamya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DesuRamya/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DesuRamya/Leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DesuRamya/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DesuRamya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/DesuRamya/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -387,6 +388,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DesuRamya/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1054-complement-of-base-10-integer](https://github.com/DesuRamya/Leetcode/tree/master/1054-complement-of-base-10-integer) |
@@ -605,6 +607,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DesuRamya/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
