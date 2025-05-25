@@ -379,6 +379,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DesuRamya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DesuRamya/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -493,6 +494,7 @@
 | [0101-symmetric-tree](https://github.com/DesuRamya/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/DesuRamya/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DesuRamya/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DesuRamya/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/DesuRamya/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/DesuRamya/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
@@ -584,6 +586,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DesuRamya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/DesuRamya/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DesuRamya/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DesuRamya/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/DesuRamya/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -593,6 +596,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DesuRamya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/DesuRamya/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DesuRamya/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DesuRamya/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/DesuRamya/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
