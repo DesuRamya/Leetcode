@@ -137,6 +137,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/DesuRamya/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DesuRamya/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/DesuRamya/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DesuRamya/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DesuRamya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DesuRamya/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -169,6 +170,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/DesuRamya/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DesuRamya/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DesuRamya/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DesuRamya/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DesuRamya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -374,6 +376,7 @@
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/DesuRamya/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/DesuRamya/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DesuRamya/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DesuRamya/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Stack
 |  |
 | ------- |
@@ -384,6 +387,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DesuRamya/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DesuRamya/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DesuRamya/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -443,6 +447,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DesuRamya/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/DesuRamya/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DesuRamya/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
 |  |
 | ------- |
