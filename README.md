@@ -31,6 +31,7 @@
 | [0403-frog-jump](https://github.com/DesuRamya/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/DesuRamya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/DesuRamya/Leetcode/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DesuRamya/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/DesuRamya/Leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
@@ -399,6 +400,7 @@
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DesuRamya/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/DesuRamya/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/DesuRamya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0983-validate-stack-sequences](https://github.com/DesuRamya/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DesuRamya/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -533,6 +535,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DesuRamya/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/DesuRamya/Leetcode/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/DesuRamya/Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2530-minimize-maximum-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -580,6 +583,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/DesuRamya/Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DesuRamya/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Quickselect
@@ -608,6 +612,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DesuRamya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/DesuRamya/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/DesuRamya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DesuRamya/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Tree
