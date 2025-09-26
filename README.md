@@ -34,6 +34,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DesuRamya/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/DesuRamya/Leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/DesuRamya/Leetcode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/DesuRamya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/DesuRamya/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DesuRamya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DesuRamya/Leetcode/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/DesuRamya/Leetcode/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/DesuRamya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DesuRamya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
@@ -395,6 +397,7 @@
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DesuRamya/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/DesuRamya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DesuRamya/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1666-make-the-string-great](https://github.com/DesuRamya/Leetcode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -602,6 +605,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DesuRamya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/DesuRamya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DesuRamya/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Tree
 |  |
