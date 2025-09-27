@@ -44,6 +44,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/DesuRamya/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [0830-largest-triangle-area](https://github.com/DesuRamya/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/DesuRamya/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
@@ -261,6 +262,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DesuRamya/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [0830-largest-triangle-area](https://github.com/DesuRamya/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1033-broken-calculator](https://github.com/DesuRamya/Leetcode/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/DesuRamya/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
@@ -672,6 +674,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/DesuRamya/Leetcode/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DesuRamya/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Number Theory
 |  |
