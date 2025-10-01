@@ -270,6 +270,7 @@
 | [1362-airplane-seat-assignment-probability](https://github.com/DesuRamya/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DesuRamya/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1642-water-bottles](https://github.com/DesuRamya/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DesuRamya/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2039-sum-game](https://github.com/DesuRamya/Leetcode/tree/master/2039-sum-game) |
@@ -347,6 +348,7 @@
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/DesuRamya/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DesuRamya/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1642-water-bottles](https://github.com/DesuRamya/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2386-min-max-game](https://github.com/DesuRamya/Leetcode/tree/master/2386-min-max-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/DesuRamya/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
