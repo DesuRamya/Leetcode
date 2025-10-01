@@ -287,6 +287,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/DesuRamya/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/DesuRamya/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DesuRamya/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/DesuRamya/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/DesuRamya/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DesuRamya/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -353,6 +354,7 @@
 | [2386-min-max-game](https://github.com/DesuRamya/Leetcode/tree/master/2386-min-max-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/DesuRamya/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2679-count-distinct-numbers-on-board](https://github.com/DesuRamya/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3336-water-bottles-ii](https://github.com/DesuRamya/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/DesuRamya/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/DesuRamya/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
