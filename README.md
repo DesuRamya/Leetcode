@@ -162,6 +162,7 @@
 | [0008-string-to-integer-atoi](https://github.com/DesuRamya/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/DesuRamya/Leetcode/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/DesuRamya/Leetcode/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/DesuRamya/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
@@ -339,6 +340,7 @@
 | [0011-container-with-most-water](https://github.com/DesuRamya/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/DesuRamya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DesuRamya/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/DesuRamya/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/DesuRamya/Leetcode/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
