@@ -28,6 +28,7 @@
 | [0274-h-index](https://github.com/DesuRamya/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/DesuRamya/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DesuRamya/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/DesuRamya/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/DesuRamya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -118,6 +119,7 @@
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DesuRamya/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DesuRamya/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0480-sliding-window-median](https://github.com/DesuRamya/Leetcode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/DesuRamya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -258,6 +260,7 @@
 | [0070-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DesuRamya/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/DesuRamya/Leetcode/tree/master/0319-bulb-switcher) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DesuRamya/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/DesuRamya/Leetcode/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DesuRamya/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -688,4 +691,12 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/DesuRamya/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/DesuRamya/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/DesuRamya/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
