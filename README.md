@@ -113,6 +113,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DesuRamya/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DesuRamya/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/DesuRamya/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/DesuRamya/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/DesuRamya/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -157,6 +158,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/DesuRamya/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DesuRamya/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DesuRamya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DesuRamya/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -585,6 +587,7 @@
 | [0390-elimination-game](https://github.com/DesuRamya/Leetcode/tree/master/0390-elimination-game) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
@@ -691,6 +694,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/DesuRamya/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DesuRamya/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Probability and Statistics
 |  |
 | ------- |
