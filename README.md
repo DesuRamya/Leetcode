@@ -69,6 +69,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/DesuRamya/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DesuRamya/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2145-grid-game](https://github.com/DesuRamya/Leetcode/tree/master/2145-grid-game) |
@@ -136,6 +137,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DesuRamya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
+| [2094-finding-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2107-find-unique-binary-string](https://github.com/DesuRamya/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DesuRamya/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -233,6 +235,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DesuRamya/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/DesuRamya/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/DesuRamya/Leetcode/tree/master/2055-describe-the-painting) |
+| [2094-finding-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DesuRamya/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DesuRamya/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/DesuRamya/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -581,6 +584,7 @@
 | [0206-reverse-linked-list](https://github.com/DesuRamya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/DesuRamya/Leetcode/tree/master/0390-elimination-game) |
 | [2050-count-good-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2050-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DesuRamya/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
@@ -683,6 +687,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DesuRamya/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2094-finding-3-digit-even-numbers](https://github.com/DesuRamya/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DesuRamya/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/DesuRamya/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DesuRamya/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
