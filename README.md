@@ -50,6 +50,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DesuRamya/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/DesuRamya/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
+| [0976-largest-perimeter-triangle](https://github.com/DesuRamya/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0983-validate-stack-sequences](https://github.com/DesuRamya/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DesuRamya/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DesuRamya/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -235,6 +236,7 @@
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DesuRamya/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0976-largest-perimeter-triangle](https://github.com/DesuRamya/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DesuRamya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DesuRamya/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/DesuRamya/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -278,6 +280,7 @@
 | [0523-continuous-subarray-sum](https://github.com/DesuRamya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0828-chalkboard-xor-game](https://github.com/DesuRamya/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/DesuRamya/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0976-largest-perimeter-triangle](https://github.com/DesuRamya/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/DesuRamya/Leetcode/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/DesuRamya/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/DesuRamya/Leetcode/tree/master/1086-divisor-game) |
@@ -389,6 +392,7 @@
 | [0402-remove-k-digits](https://github.com/DesuRamya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/DesuRamya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/DesuRamya/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0976-largest-perimeter-triangle](https://github.com/DesuRamya/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1026-string-without-aaa-or-bbb](https://github.com/DesuRamya/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1033-broken-calculator](https://github.com/DesuRamya/Leetcode/tree/master/1033-broken-calculator) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DesuRamya/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
