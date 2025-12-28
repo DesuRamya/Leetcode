@@ -53,6 +53,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/DesuRamya/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0983-validate-stack-sequences](https://github.com/DesuRamya/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DesuRamya/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1324-print-words-vertically](https://github.com/DesuRamya/Leetcode/tree/master/1324-print-words-vertically) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DesuRamya/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/DesuRamya/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DesuRamya/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -175,6 +176,7 @@
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0952-word-subsets) |
 | [1026-string-without-aaa-or-bbb](https://github.com/DesuRamya/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
+| [1324-print-words-vertically](https://github.com/DesuRamya/Leetcode/tree/master/1324-print-words-vertically) |
 | [1502-construct-k-palindrome-strings](https://github.com/DesuRamya/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DesuRamya/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/DesuRamya/Leetcode/tree/master/1666-make-the-string-great) |
@@ -369,6 +371,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/DesuRamya/Leetcode/tree/master/0068-text-justification) |
 | [0983-validate-stack-sequences](https://github.com/DesuRamya/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [1324-print-words-vertically](https://github.com/DesuRamya/Leetcode/tree/master/1324-print-words-vertically) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DesuRamya/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/DesuRamya/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DesuRamya/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
