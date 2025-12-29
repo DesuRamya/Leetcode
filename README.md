@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DesuRamya/Leetcode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DesuRamya/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/DesuRamya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DesuRamya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DesuRamya/Leetcode/tree/master/0268-missing-number) |
@@ -169,6 +170,7 @@
 | [0006-zigzag-conversion](https://github.com/DesuRamya/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/DesuRamya/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/DesuRamya/Leetcode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DesuRamya/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/DesuRamya/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/DesuRamya/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0392-is-subsequence) |
@@ -529,6 +531,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DesuRamya/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0480-sliding-window-median](https://github.com/DesuRamya/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/DesuRamya/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DesuRamya/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
