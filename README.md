@@ -697,6 +697,7 @@
 | [0620-not-boring-movies](https://github.com/DesuRamya/Leetcode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DesuRamya/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DesuRamya/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1729-find-followers-count](https://github.com/DesuRamya/Leetcode/tree/master/1729-find-followers-count) |
 ## Backtracking
 |  |
 | ------- |
