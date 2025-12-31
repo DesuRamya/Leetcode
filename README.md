@@ -692,6 +692,7 @@
 | [0183-customers-who-never-order](https://github.com/DesuRamya/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/DesuRamya/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/DesuRamya/Leetcode/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/DesuRamya/Leetcode/tree/master/0610-triangle-judgement) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DesuRamya/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Backtracking
 |  |
