@@ -706,6 +706,7 @@
 | [1693-daily-leads-and-partners](https://github.com/DesuRamya/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DesuRamya/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/DesuRamya/Leetcode/tree/master/1729-find-followers-count) |
+| [1873-calculate-special-bonus](https://github.com/DesuRamya/Leetcode/tree/master/1873-calculate-special-bonus) |
 ## Backtracking
 |  |
 | ------- |
