@@ -701,6 +701,7 @@
 | [1148-article-views-i](https://github.com/DesuRamya/Leetcode/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/DesuRamya/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1667-fix-names-in-a-table](https://github.com/DesuRamya/Leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1683-invalid-tweets](https://github.com/DesuRamya/Leetcode/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DesuRamya/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/DesuRamya/Leetcode/tree/master/1729-find-followers-count) |
 ## Backtracking
