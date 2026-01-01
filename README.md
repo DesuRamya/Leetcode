@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/DesuRamya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DesuRamya/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DesuRamya/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/DesuRamya/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DesuRamya/Leetcode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/DesuRamya/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DesuRamya/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -275,6 +276,7 @@
 | [0029-divide-two-integers](https://github.com/DesuRamya/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DesuRamya/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DesuRamya/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/DesuRamya/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DesuRamya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DesuRamya/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/DesuRamya/Leetcode/tree/master/0319-bulb-switcher) |
